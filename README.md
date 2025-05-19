@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victoria Lara</h1>
 <h3 align="center">Bridging Language, AI, and DevOps – From Literature to Automation</h3>
 
-- 🔭 I’m currently working on [Literary Intelligence System](https://github.com/seu-usuario/literary-intelligence-system)
+- 🔭 I’m currently working on [Literary Intelligence System](https://github.com/victoriaglara/literary-intelligence-system) and [Syntaxia Synapse](https://github.com/victoriaglara/syntaxia-synapse)
 
 - 🌱 I’m currently learning **Azure, DevOps, LLMs, NLP, Prompt Engineering**
 
@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Natural Language Processing, AI Generative Models, DevOps, Automation**
 
-- 📫 How to reach me **victoriaglara@gmail.com**
+- 📫 How to reach me **prof.victorialara@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/victoria-lara-a8740634/](https://www.linkedin.com/in/victoria-lara-a8740634/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/victoria-lara-a8740634/](https://www.linkedin.com/in/victorialara-tech/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
